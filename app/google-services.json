@@ -1,42 +1,34 @@
 {
   "project_info": {
-    "project_number": "903849738298",
-    "firebase_url": "https://tplasa.firebaseio.com",
-    "project_id": "tplasa",
-    "storage_bucket": "tplasa.appspot.com"
+    "project_number": "92844226091",
+    "firebase_url": "https://tplasa-1c58e.firebaseio.com",
+    "project_id": "tplasa-1c58e",
+    "storage_bucket": "tplasa-1c58e.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:903849738298:android:a621f4f2f9d14dd9fab503",
+        "mobilesdk_app_id": "1:92844226091:android:3532a420e55e24423fdc6e",
         "android_client_info": {
           "package_name": "com.example.tplasa"
         }
       },
       "oauth_client": [
         {
-          "client_id": "903849738298-vc23cgsnsfg6t1ei5jejirp620jr4klh.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.example.tplasa",
-            "certificate_hash": "4d5dfe2e435372a1feadd6d6678a7fc90e40ab47"
-          }
-        },
-        {
-          "client_id": "903849738298-0u3l6al8gbj9jutv842f36v1eitkh8a0.apps.googleusercontent.com",
+          "client_id": "92844226091-vivs821jmmup36m2r30km29mnjp4eraf.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAYtealK6b26THbi6VaKY2gazYo_CbTM4s"
+          "current_key": "AIzaSyDoX2Qg-BJ717Eurr8HmG7t3jmSVQbI4PA"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "903849738298-0u3l6al8gbj9jutv842f36v1eitkh8a0.apps.googleusercontent.com",
+              "client_id": "92844226091-vivs821jmmup36m2r30km29mnjp4eraf.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
